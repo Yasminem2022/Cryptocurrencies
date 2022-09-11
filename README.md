@@ -8,10 +8,14 @@ The purpose of this analysis is to create an analysis for clients who are prepar
 
 ---
 ## Results 
-### Processing Data Dimensions Using PCA
+###  Elbow Curve
+![ElbowCurve](Elbow_curve.png)
 
-### Reducing Data Dimensions Using PCA
+### 3D Scatter Plot
+![ScatterPlot](3D_scatter.png)
 
-### Clustering Cryptocurrencies Usinf K-means
+### Tradable Cryptocurrencies 
+![TradableCrypto](tradable_crypto.png)
 
-### Visualizing Cryptocurrencies Results 
+### HV Plot 
+![HVPlot](hvplot.png)
